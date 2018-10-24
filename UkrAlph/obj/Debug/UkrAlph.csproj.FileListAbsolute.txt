@@ -1,0 +1,10 @@
+D:\Projects\CS\UkrAlph\UkrAlph\bin\Debug\UkrAlph.exe.config
+D:\Projects\CS\UkrAlph\UkrAlph\bin\Debug\UkrAlph.exe
+D:\Projects\CS\UkrAlph\UkrAlph\bin\Debug\UkrAlph.pdb
+D:\Projects\CS\UkrAlph\UkrAlph\obj\Debug\UkrAlph.csprojAssemblyReference.cache
+D:\Projects\CS\UkrAlph\UkrAlph\obj\Debug\UkrAlph.Form1.resources
+D:\Projects\CS\UkrAlph\UkrAlph\obj\Debug\UkrAlph.Properties.Resources.resources
+D:\Projects\CS\UkrAlph\UkrAlph\obj\Debug\UkrAlph.csproj.GenerateResource.cache
+D:\Projects\CS\UkrAlph\UkrAlph\obj\Debug\UkrAlph.csproj.CoreCompileInputs.cache
+D:\Projects\CS\UkrAlph\UkrAlph\obj\Debug\UkrAlph.exe
+D:\Projects\CS\UkrAlph\UkrAlph\obj\Debug\UkrAlph.pdb
